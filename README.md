@@ -224,6 +224,7 @@ Fix assembly pe header and metadata errors
   - [Hexinator](https://hexinator.com/) - Hex editor and lot of more features.
   - [HexEdit](https://hexed.it/) - A powerful online hex editor running in your web browser. Analyse and edit binary files everywhere.
   - [HxD](https://mh-nexus.de/en/hxd/) - HxD is a carefully designed and fast hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
+  - [ReHex](https://github.com/solemnwarning/rehex) - A cross-platform (Windows, Linux, Mac, BSD) hex editor for reverse engineering.
 
 
 - ### Mac
@@ -254,6 +255,7 @@ Fix assembly pe header and metadata errors
 - ### PE Editer
   - [AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for editing PE files with full .NET metadata support.
   - [CFF Explorer](https://ntcore.com/?page_id=388) - a freeware suite of tools including a PE editor.
+  - [XPE Viewer](https://github.com/horsicq/XPEViewer) - E file viewer/editor for Windows, Linux and MacOS.
 
 
 - ### PDF, MS, etc..
