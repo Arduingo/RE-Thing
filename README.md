@@ -277,6 +277,10 @@ Fix assembly pe header and metadata errors
 
 - ### Web
   - [https://defuse.ca/](Defuse) - Website with lot free tools for RE/Crack Hash, and lot of on tools include in the website
+ 
+- ### Trainings/Tutorials
+  - [Reverse Engineering for Everyone](https://0xinfection.github.io/reversing)/ - Website with guiede totorial to Reverse Engineering SW
+  - [Debuggers 1102: Introductory Ghidra](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1102_IntroGhidra+2024_v2/about)/ - This is a very basic introduction to Ghidra, with an emphasis on using Ghidra as a debugger
 
 
 -----------------
